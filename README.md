@@ -1,5 +1,13 @@
 # Avify Take Home React
 
+COMENTARIOS ADICIONALES: 
+Buenas tardes equipo, espero que hayan tenido un lindo dia. 
+Se implemento todo lo pedido con react y typescript, se utilizo la libreria chart de react para la representacion grafica de los elementos. (si tocan el grafico es interactivo).
+Trate de generar columnas de relevancia como las 3 mas y menos usadas. 
+Para el estilado uso tailwind css ya que me parece mas practico y eficaz. 
+Espero que les haya gustado. 
+Agustin
+
 ## TLDR
 
 -  This README describes the test - read it
